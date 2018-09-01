@@ -1,20 +1,9 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## 2018, University of Gothenburg
+### Advanced Industrial Organization (Master), lecturer and teaching assistant
+### Basic Econometrics (Bachelor), teaching assistant
+## 2017, University of Gothenburg
+### Advanced Industrial Organization (Master), lecturer and teaching assistant
+## 2016, University of Gothenburg
+### Advanced Industrial Organization (Master), lecturer and teaching assistant
+## 2015, University of Gothenburg
+### Economic Research Process (Master), lecturer and teaching assistant

@@ -1,19 +1,22 @@
 ---
+sitemap: false
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
  *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
+ *  Minimal Mistakes
+ *
+ *  Designer: Michael Rose
+ *  Twitter: http://twitter.com/mmistakes
  *
 */
 
+// Partials
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
+//@import "grid";
 
 @import "reset";
 @import "base";
@@ -35,5 +38,13 @@
 @import "sidebar";
 
 @import "vendor/font-awesome/font-awesome";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+//@import "vendor/magnific-popup/magnific-popup";
+@import "vendor/google/fonts";
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Open+Sans:400,600,700&subset=cyrillic-ext');
+
+// Custom
+.dateline {
+    float: right;
+    font-size: 9pt;
+    font-style: italic;
+}

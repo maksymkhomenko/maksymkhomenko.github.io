@@ -1,22 +1,31 @@
-# main links links
+# main links link
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: ""
 
-  - title: "Talks"
-    url: /talks/    
+  - title: ""
+
+  - title: ""
+
+  - title: "CV"
+    url: /files/cv.pdf
+
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
+
+  # - title: "Talks"
+
+ # - title: "Publications"
+  #  url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+
+  # - title: "Blog Posts"
+    # url: /year-archive/
+
+  # - title: "Guide"
+    # url: /markdown/

@@ -1,0 +1,147 @@
+// TYPOGRAPHY ================================================
+$doc-font-size: 16;
+$doc-line-height: 26;
+$paragraph-indent: true !default;
+$base-font: 'Montserrat',Times, serif;
+$heading-font: 'Roboto', sans-serif;
+$code-font:  "Montserrat", monospace;
+$alt-font: $base-font;
+$monospace                  :Monaco, Consolas, "Lucida Console", monospace;
+// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif:  -apple-system,  "Montserrat", Arial, sans-serif;
+$sans-serif-narrow          : $sans-serif;
+$sans-serif1                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif1;
+
+$global-font-family         : $base-font;
+$header-font-family         : $heading-font;
+$caption-font-family        : $base-font;
+
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
+$bodoni                     : "Bodoni MT", serif;
+$calisto                    : "Calisto MT", serif;
+$garamond : Garamond, serif;
+
+// COLOR ======================================================
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+$body-color                 : #fff;
+$bodycolor                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
+
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
+$black          : #111;
+$white          : #fff;
+$accentcolor    : $black;
+
+
+$behance-color              : #1769FF;
+$dribbble-color             : #ea4c89;
+$facebook-color             : #3b5998;
+$flickr-color               : #ff0084;
+$foursquare-color           : #0072b1;
+$github-color               : #171516;
+$google-plus-color          : #dd4b39;
+$instagram-color            : #517fa4;
+$lastfm-color               : #d51007;
+$linkedin-color             : #007bb6;
+$pinterest-color            : #cb2027;
+$rss-color                  : #fa9b39;
+$soundcloud-color           : #ff3300;
+$stackoverflow-color        : #fe7a15;
+$tumblr-color               : #32506d;
+$twitter-color              : #55acee;
+$vimeo-color                : #1ab7ea;
+$vine-color                 : #00bf8f;
+$youtube-color              : #bb0000;
+$xing-color                 : #006567;
+
+
+ /* type scale */
+ $type-size-1                : 2.441em;  // ~39.056px
+ $type-size-2                : 1.953em;  // ~31.248px
+ $type-size-3                : 1.563em;  // ~25.008px
+ $type-size-4                : 1.25em;   // ~20px
+ $type-size-5                : 1.1em;      // ~16px
+ $type-size-51                : 1em;   // ~16px
+ $type-size-6                : 0.75em;   // ~12px
+ $type-size-7                : 0.65em; // ~11px
+ $type-size-8                : 0.5em;  // ~10px
+
+
+
+// Buttons
+$primary			: $black;
+$primary2     : #0077B5;
+$success			: #5cb85c;
+$warning			: #dd8338;
+$danger				: #C64537;
+$info				  : #308cbc;
+
+// Links
+$linkcolor 		    : #0077B5;
+$link-color       : $linkcolor;
+$linkcolorhover 	: darken($linkcolor, 10);
+$linkcolorvisited : lighten($linkcolorhover, 20);
+$linkcolorfocus 	: darken($linkcolorvisited, 10);
+
+
+// Breakpoints
+
+@include breakpoint-set("to ems", true);
+$small                      : 600px !default;
+$medium                     : 768px !default;
+$medium-wide                : 800px !default;
+$large                      : 825px !default;
+$x-large                    : 1080px !default;
+
+
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$global-transition          : all 0.2s ease-in-out;
+
+
+$link-color                 : $info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary2;
+$masthead-link-color-hover  : mix(#000, $linkcolor, 25%);
+
+
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
+
+$susy: (
+  columns: 12,
+  column-width: 100px,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: $large,
+  global-box-sizing: content-box,
+  // debug: (
+  //   image: show,
+  //   color: blue,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
+);
+
+// Page width
+$measure-width: 42rem !default;
