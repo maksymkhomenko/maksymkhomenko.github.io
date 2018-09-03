@@ -5,22 +5,11 @@ permalink: /research/
 output: html_document
 author_profile: true
 ---
-A variety of common markup showing how the theme styles them.
 
-# Header one
+## Working Papers
+*Optimal Regulations and Design of Unemployment Insurance*, [job market paper] (draft coming soon) 
+*Behavioral Responses and Design of Inheritance Taxation*, with Simon Schürz (draft coming soon) 
 
-## Header two
 
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
+## Work in Progress
+*Determinants of University Competition and Student Demand in Higher Education: Evidence from Australia*, with Natalie Bachas
