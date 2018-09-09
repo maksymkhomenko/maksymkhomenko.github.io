@@ -15,4 +15,8 @@ author_profile: true
 
 # Work in Progress
 
-**_Determinants of University Competition and Student Demand in Higher Education: Evidence from Australia_**, *with Natalie Bachas*
+Determinants of University Competition and Student Demand in Higher Education: Evidence from Australia_**, *with Natalie Bachas*
+
+**_Labor Markets, Individual Preferences and Spatial Equilibria_**
+
+**_Price Distortions and Welfare Costs of Inequality_**
