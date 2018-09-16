@@ -8,7 +8,7 @@ author_profile: true
 
 # Working Papers
 
-**_Optimal Regulations and Design of Unemployment Insurance_**, [job market paper] (draft coming soon)
+**_Private Information and Design of Unemployment Insurance_**, [job market paper] (draft coming soon)
 
 **_Behavioral Responses and Design of Inheritance Taxation_**, *with Simon Schürz* (draft coming soon) 
 
