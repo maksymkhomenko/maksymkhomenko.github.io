@@ -10,6 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  text-align: justify;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -21,6 +22,7 @@
     @include span(9 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+	text-align: justify;
   }
 
   .page__inner-wrap {
@@ -53,6 +55,7 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+	  text-align: justify;
   }
 
   p, li, dl {
