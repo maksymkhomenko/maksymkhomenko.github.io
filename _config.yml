@@ -11,9 +11,9 @@ title                    : "              MAKS KHOMENKO                   "
 title_separator          : "-"
 name                     : &name "              MAKS KHOMENKO                   "
 description              : "Maksym Khomenko PhD Candidate in Economics University of Gothenburg,Stanford University"
-url                      : http://khomenkomaks.com/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://khomenkomaks.com/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "maksymkhomenko.github.io"
+repository               : "maksymkhomenko/maksymkhomenko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
