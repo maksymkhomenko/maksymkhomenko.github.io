@@ -2,15 +2,15 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
-$base-font: 'Montserrat',Times, serif;
+$base-font: 'Montserrat';
 //$base-font: 'Sawarabi Mincho',Times, serif;
 //$base-font: 'Cormorant', serif;
-$heading-font: 'Roboto', sans-serif;
-$code-font:  "Montserrat", monospace;
+$heading-font: 'Roboto';
+$code-font:  "Montserrat";
 $alt-font: $base-font;
 $monospace                  :Monaco, Consolas, "Lucida Console", monospace;
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$sans-serif:  -apple-system,  "Montserrat", Arial, sans-serif;
+$sans-serif:  -apple-system,  "Montserrat";
 $sans-serif-narrow          : $sans-serif;
 $sans-serif1                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif1;
 
