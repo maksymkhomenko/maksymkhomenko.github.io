@@ -6,17 +6,19 @@ output: html_document
 author_profile: true
 ---
 
-# Working Papers
+# WORKING PAPERS
 
-**_Private Information and Design of Unemployment Insurance_**, [job market paper] (draft coming soon)
+**Private Information and Design of Unemployment Insurance**, [job market paper] (draft coming soon)
 
-**_Behavioral Responses and Design of Inheritance Taxation_**, *with Simon Schürz* (draft coming soon) 
+**Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon) 
 
 
-# Work in Progress
+# WORK IN PROGRESS
 
-**_Determinants of University Competition and Student Demand in Higher Education: Evidence from Australia_**, *with Natalie Bachas*
+**Determinants of University Competition and Student Demand in Higher Education: Evidence from Australia**, *with Natalie Bachas*
 
-**_Labor Markets, Individual Preferences and Spatial Equilibria_**
+**Labor Markets, Individual Preferences and Spatial Equilibria**
 
-**_Price Distortions and Welfare Costs of Inequality_**
+**Price Distortions and Welfare Costs of Inequality**
+
+**Family-Level Responses to Social Insurance**
