@@ -7,9 +7,8 @@ author_profile: true
 ---
 
 # WORKING PAPERS
-
-**Private Information and Design of Unemployment Insurance**, [job market paper] (draft coming soon)
-
+You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a></u>.
+href="{{/files/Job Market Paper - October 2018.pdf}}"**Private Information and Design of Unemployment Insurance**, [job market paper] 
 **Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon) 
 
 
