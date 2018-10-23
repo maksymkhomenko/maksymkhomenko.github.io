@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: ""
 permalink: /research/
 output: html_document
@@ -9,7 +9,6 @@ author_profile: true
 # WORKING PAPERS
   
 [**Private Information and Design of Unemployment Insurance**](https://khomenkomaks.com/files/Job_Market_Paper_-_October_2018.pdf), job market paper
-
 
 **Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon) 
 
