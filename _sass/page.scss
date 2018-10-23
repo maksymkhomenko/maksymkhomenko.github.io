@@ -48,6 +48,8 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-5;
+	&:hover {
+		text-decoration: underline;}
 }
 
 .page__content {
@@ -190,7 +192,7 @@
 
   a {
     color: #fff;
-    text-decoration: none;
+    text-decoration:underline;
   }
 }
 
