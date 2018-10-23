@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 # WORKING PAPERS
- <u><a href="{{http://khomenkomaks.com/files/Job_Market_Paper_-_October_2018.pdf}}">**Private Information and Design of Unemployment Insurance**</a></u>, (job market paper)
+ <u><a href="{{khomenkomaks.com/files/Job_Market_Paper_-_October_2018.pdf}}">Private Information and Design of Unemployment Insurance</a></u>, (job market paper)
  
  
 [**Private Information and Design of Unemployment Insurance**](http://khomenkomaks.com/files/Job_Market_Paper_-_October_2018.pdf), job market paper
