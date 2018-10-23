@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: talk
 title: ""
 permalink: /research/
 output: html_document
