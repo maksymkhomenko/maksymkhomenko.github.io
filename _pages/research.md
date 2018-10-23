@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 # WORKING PAPERS
-**<u><a url:=/files/Job Market Paper - October 2018.pdf >Private Information and Design of Unemployment Insurance</a></u>**, [job market paper] 
+[**Private Information and Design of Unemployment Insurance**](/files/Job Market Paper - October 2018.pdf), job market paper
 
 
 **Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon) 
