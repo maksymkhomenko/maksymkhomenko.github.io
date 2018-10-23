@@ -82,7 +82,7 @@
       font-weight: bold;
       line-height: 2;
       text-align: center;
-      text-decoration: none;
+      text-decoration: underline;
       color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
@@ -130,7 +130,7 @@
     font-size: $type-size-5;
     font-weight: bold;
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
     color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
@@ -259,6 +259,7 @@
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
+    text-decoration:underline ;
 
     a {
       margin: 0;
