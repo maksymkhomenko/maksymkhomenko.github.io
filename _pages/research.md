@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: ""
 permalink: /research/
 output: html_document
