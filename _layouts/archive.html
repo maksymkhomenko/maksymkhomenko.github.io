@@ -22,11 +22,6 @@ layout: default
     <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-        
-        {% if page.collection == 'publications' %}
-          {% if page.abstract %}
-            <p>{{ page.abstract }}</p>
-          {% endif %}
           {% if page.paperurl %}
             <p><a href={{ page.paperurl }}>Download paper here</a></p>
           {% endif %}
