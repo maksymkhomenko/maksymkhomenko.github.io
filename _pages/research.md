@@ -19,6 +19,6 @@ author_profile: true
 
 * **Labor Markets, Individual Preferences and Spatial Equilibria**
 
-* **Price Distortions and Welfare Costs of Inequality**
+* **Wealth vs. Bequest Taxation: Evidence from Sweden**
 
 * **Family-Level Responses to Social Insurance**
