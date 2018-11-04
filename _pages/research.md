@@ -13,7 +13,7 @@ author_profile: true
 * **Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon) 
 
 
-# WORK IN PROGRESS
+# SELECTED WORK IN PROGRESS
 
 * **Determinants of University Competition and Student Demand in Higher Education: Evidence from Australia**, *with Natalie Bachas*
 
@@ -22,3 +22,5 @@ author_profile: true
 * **Wealth vs. Bequest Taxation: Evidence from Sweden**
 
 * **Family-Level Responses to Social Insurance**
+
+* **Consumer Screening and Market Welfare**
