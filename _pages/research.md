@@ -10,7 +10,7 @@ author_profile: true
   
 * [**Private Information and Design of Unemployment Insurance**](https://khomenkomaks.com/files/JMP-October2018v2.pdf), *job market paper*
 
-* **Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon) 
+* **Behavioral Responses and Design of Inheritance Taxation**, *with Simon Schürz* (draft coming soon or available upon request) 
 
 
 # SELECTED WORK IN PROGRESS
