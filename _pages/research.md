@@ -10,7 +10,7 @@ author_profile: true
 
 * **Private Information and Design of Unemployment Insurance**
 
-* **Private Information and Design of Unemployment Insurance**
+* **Behavioral Responses and Design of Bequest Taxation**, *with Simon Schürz*
 
 * **Determinants of Competition and Student Demand in Higher Education: Evidence from Australia**, *with Natalie Bachas*
 
