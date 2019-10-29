@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 # WORKING PAPERS
-  
-* [**Private Information and Design of Unemployment Insurance**](https://khomenkomaks.com/files/Job-Market-Paper.pdf), *job market paper*
 
-* [**Behavioral Responses and Design of Bequest Taxation**](https://khomenkomaks.com/files/Bequest-Taxation-November2018.pdf), *with Simon Schürz*
+* [**Private Information and Design of Unemployment Insurance**](https://maksymkhomenko.github.io/files/Job-Market-Paper.pdf), *job market paper*
+
+* [**Behavioral Responses and Design of Bequest Taxation**](https://maksymkhomenko.github.io/files/Bequest-Taxation-November2018.pdf), *with Simon Schürz*
 
 
 # SELECTED WORK IN PROGRESS
