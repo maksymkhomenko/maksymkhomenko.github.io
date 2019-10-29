@@ -16,7 +16,6 @@ url                      : "http://maksymkhomenko.github.io"  # the base hostnam
 =======
 description              : "Maksym Khomenko PhD in Economics"
 url                      : "https://maksymkhomenko.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
->>>>>>> 8d154443ff86a3dc9b09ca1581f339e96b59a936
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "maksymkhomenko/maksymkhomenko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
