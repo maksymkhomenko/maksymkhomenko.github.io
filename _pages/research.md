@@ -15,13 +15,6 @@ author_profile: true
 
 * [**Determinants of Competition and Student Demand in Higher Education: Evidence from Australia**](https://maksymkhomenko.github.io/files/Paper3.pdf), *with Natalie Bachas*
 
-* **Private Information and Design of Unemployment Insurance**
-
-* **Behavioral Responses and Design of Bequest Taxation**, *with Simon Schürz*
-
-* **Determinants of Competition and Student Demand in Higher Education: Evidence from Australia**, *with Natalie Bachas*
-
-
 
 # SELECTED WORK IN PROGRESS
 
