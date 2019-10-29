@@ -11,9 +11,6 @@ title                    : "              MAKS KHOMENKO                   "
 title_separator          : "-"
 name                     : &name "              MAKS KHOMENKO                   "
 <<<<<<< HEAD
-description              : "Maksym Khomenko PhD Candidate in Economics University of Gothenburg,Stanford University"
-url                      : "http://maksymkhomenko.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
 description              : "Maksym Khomenko PhD in Economics"
 url                      : "https://maksymkhomenko.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
