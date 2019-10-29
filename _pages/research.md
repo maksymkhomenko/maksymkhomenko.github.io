@@ -9,9 +9,11 @@ author_profile: true
 # WORKING PAPERS
 
 
-* [**Private Information and Design of Unemployment Insurance**](https://maksymkhomenko.github.io/files/Job-Market-Paper.pdf), *job market paper*
+* [**Private Information and Design of Unemployment Insurance**](https://maksymkhomenko.github.io/files/Paper1.pdf), *job market paper*
 
-* [**Behavioral Responses and Design of Bequest Taxation**](https://maksymkhomenko.github.io/files/Bequest-Taxation-November2018.pdf), *with Simon Schürz*
+* [**Behavioral Responses and Design of Bequest Taxation**](https://maksymkhomenko.github.io/files/Paper2.pdf), *with Simon Schürz*
+
+* [**Determinants of Competition and Student Demand in Higher Education: Evidence from Australia**](https://maksymkhomenko.github.io/files/Paper3.pdf), *with Natalie Bachas*
 =======
 * **Private Information and Design of Unemployment Insurance**
 
@@ -24,9 +26,11 @@ author_profile: true
 # SELECTED WORK IN PROGRESS
 
 
-
-* **Labor Markets, Individual Preferences and Spatial Equilibria**
-
-* **Wealth vs. Bequest Taxation: Evidence from Sweden**
-
-* **Family-Level Responses to Social Insurance**
+* **Temporal Difference Reinforcement Learning for Estimation of Dynamic Games**
+* **Behavioral Responses and Design of Wealth Taxation**
+* **Labor Markets, Individual Preferences and Housing Market Equilibria**
+* **Family-Level Responses to Social Insurance and Taxation**, *with Mikael Lindahl*
+* **Patent Regulations and Destruction of Innovations**
+* **Determinants of Private Investment Decisions**
+* **The Effect of Behavioral Biases, Learning and Advisory in Investment Decisions**
+* **Long-Term Effects of Earned Income Tax Credit Program: Evidence from Sweden**
