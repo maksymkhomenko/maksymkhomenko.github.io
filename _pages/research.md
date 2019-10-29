@@ -8,7 +8,7 @@ author_profile: true
 
 # WORKING PAPERS
 
-<<<<<<< HEAD
+
 * [**Private Information and Design of Unemployment Insurance**](https://maksymkhomenko.github.io/files/Job-Market-Paper.pdf), *job market paper*
 
 * [**Behavioral Responses and Design of Bequest Taxation**](https://maksymkhomenko.github.io/files/Bequest-Taxation-November2018.pdf), *with Simon Schürz*
@@ -19,7 +19,6 @@ author_profile: true
 
 * **Determinants of Competition and Student Demand in Higher Education: Evidence from Australia**, *with Natalie Bachas*
 
->>>>>>> 8d154443ff86a3dc9b09ca1581f339e96b59a936
 
 
 # SELECTED WORK IN PROGRESS
