@@ -20,7 +20,6 @@ author_profile: true
 
 * **Behavioral Responses and Design of Wealth Taxation**
 * **Labor Markets, Individual Preferences and Housing Market Equilibria**
-* **Family-Level Responses to Social Insurance and Taxation**, *with Mikael Lindahl*
 * **Temporal Difference Reinforcement Learning for Estimation of Dynamic Games**
 * **Patent Regulations and Destruction of Innovations**
 * **Determinants of Private Investment Decisions**
